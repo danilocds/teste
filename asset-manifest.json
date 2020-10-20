@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6fbee537.chunk.css",
+    "main.js": "/static/js/main.0ba2a10e.chunk.js",
+    "main.js.map": "/static/js/main.0ba2a10e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e74a56b2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e74a56b2.js.map",
+    "static/js/2.100977c4.chunk.js": "/static/js/2.100977c4.chunk.js",
+    "static/js/2.100977c4.chunk.js.map": "/static/js/2.100977c4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.447a6241a6589fca1e95afab371f4361.js": "/precache-manifest.447a6241a6589fca1e95afab371f4361.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6fbee537.chunk.css.map": "/static/css/main.6fbee537.chunk.css.map",
+    "static/js/2.100977c4.chunk.js.LICENSE.txt": "/static/js/2.100977c4.chunk.js.LICENSE.txt",
+    "static/media/ICONE_infinito_-03.png": "/static/media/ICONE_infinito_-03.80601a7b.png",
+    "static/media/Mockup2@2x.png": "/static/media/Mockup2@2x.9e176a1a.png",
+    "static/media/brainIcon.svg": "/static/media/brainIcon.f84ea005.svg",
+    "static/media/checkIcon.svg": "/static/media/checkIcon.2b33f925.svg",
+    "static/media/cienceIcon.svg": "/static/media/cienceIcon.d03aad52.svg",
+    "static/media/claudia-feitosa.png": "/static/media/claudia-feitosa.19e0af39.png",
+    "static/media/clovis-barros.jpg": "/static/media/clovis-barros.d1d57e8e.jpg",
+    "static/media/greateQuestionsIcon.svg": "/static/media/greateQuestionsIcon.26a44f32.svg",
+    "static/media/historyIcon.svg": "/static/media/historyIcon.b284882d.svg",
+    "static/media/literatureIcon.svg": "/static/media/literatureIcon.04c319b0.svg",
+    "static/media/luiz-hanss.jpg": "/static/media/luiz-hanss.8a95d619.jpg",
+    "static/media/maria-homem-min.jpg": "/static/media/maria-homem-min.7197e7a6.jpg",
+    "static/media/mockup.6f043d9f@2x.png": "/static/media/mockup.6f043d9f@2x.6f050464.png",
+    "static/media/movieIcon.svg": "/static/media/movieIcon.9b00c19c.svg",
+    "static/media/paintingIcon.svg": "/static/media/paintingIcon.183ff691.svg",
+    "static/media/philosophyIcon.svg": "/static/media/philosophyIcon.1e3521da.svg",
+    "static/media/religionIcon.svg": "/static/media/religionIcon.50f933f6.svg",
+    "static/media/theaterIcon.svg": "/static/media/theaterIcon.9a9b083e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e74a56b2.js",
+    "static/js/2.100977c4.chunk.js",
+    "static/css/main.6fbee537.chunk.css",
+    "static/js/main.0ba2a10e.chunk.js"
+  ]
+}
